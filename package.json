@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-express-tutorial",
+  "version": "1.0.0",
+  "description": "Node.js Express server tutorial with Hello world and Good evening endpoints",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "tutorial",
+    "server"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
